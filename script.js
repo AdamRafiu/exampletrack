@@ -1,6 +1,6 @@
 // Mock data for flight tickets
 const flightTickets = [
-    { ticketNumber: "ABC123", flight: "AA123", departure: "New York", destination: "Los Angeles", time: "10:00 AM" },
+    { ticketNumber: "ABC123", flight: "AA123", departure: "kotoka Int", destination: "Gainesville Florida", time: "08:30 PM" },
     { ticketNumber: "XYZ456", flight: "BB456", departure: "Chicago", destination: "Miami", time: "2:00 PM" },
     { ticketNumber: "DEF789", flight: "CC789", departure: "San Francisco", destination: "Seattle", time: "6:00 PM" },
   ];
